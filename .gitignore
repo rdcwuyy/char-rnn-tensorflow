@@ -93,3 +93,7 @@ ENV/
 # char-rnn-tensorflow data files
 data.npy
 vocab.pkl
+
+# eclipse project 
+.project
+.pydevproject
